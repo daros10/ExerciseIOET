@@ -25,12 +25,12 @@ SA: sábado<br />
 SU: domingo<br />
 
 
-## Diseño
+# Diseño
 
 Para la elaboración de la solución se dividio el problema en pequeñas partes para de esta manera tener un control sobre los datos.<br />
 Se dividio toda la cadena de datos para poder implementar la solución, para esto se uso varios metodos que trabajan en cadena.<br />
 
-### Prerrequisitos 
+# Prerrequisitos 
 
 Contar con algun IDE que soporte Java 
 
@@ -38,7 +38,7 @@ Contar con algun IDE que soporte Java
 NetBeans, Eclipse, VisualStudioCode...
 ```
 
-### Instalación
+# Instalación
 
 Descargue el archivo en formato .rar y luego transformelo a .zip e importelo a cualquiero IDE que soporte Java.
 
@@ -48,7 +48,7 @@ Si usa NetBeans:
 File > Import Project > From ZIP..
 ```
 
-## Ejecución
+# Ejecución
 
 El programa hace uso de un archivo .txt que cuenta con los datos de los empleados a calcularse.<br />
 
