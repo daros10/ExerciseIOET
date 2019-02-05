@@ -67,7 +67,9 @@ NOMBRE:DIAHHi:MMi-HHf:MMf,DIAHHi:MMi-HHf:MMf,....
 ```
 * DIA = MO,TU,WE,TH,FR,SU,SA
 * HHi = Hora de inicio del empleado
-* MMi = Hora de fin del empleado
+* MMi = Minuto de inicio del empleado
+* HHf = Hora de fin del empleado
+* MMf = Minuto de fin del empleado
 
 
 ### Ejemplo Entrada 
