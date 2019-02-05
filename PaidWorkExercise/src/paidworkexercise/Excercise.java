@@ -59,17 +59,8 @@ public class Excercise {
                 JOptionPane.showMessageDialog(null, "The amount to pay " + nombreEmpleado + " is: " + valorFinal + " USD");
 
                 //luego del primer registro seteo lo valores a 0
-                valorFinal = 0;
-                horasTrabajadas = 0;
-                hFin = 0;
-                hInicio = 0;
-                rango1 = 0;
-                rango2 = 0;
-                rango3 = 0;
-                rango4 = 0;
-                rango5 = 0;
-                rango6 = 0;
-
+                setVariables();
+               
             }
 
             br.close();
@@ -153,6 +144,20 @@ public class Excercise {
         valorApagarFinSemana = rango4 + rango5 + rango6;
 
         return valorApagarFinSemana;
+
+    }
+    
+    public void setVariables() {
+        valorFinal = 0;
+        horasTrabajadas = 0;
+        hFin = 0;
+        hInicio = 0;
+        rango1 = 0;
+        rango2 = 0;
+        rango3 = 0;
+        rango4 = 0;
+        rango5 = 0;
+        rango6 = 0;
 
     }
 
