@@ -1,8 +1,7 @@
 # Ejercicio IOET - Cálculo de salarios 
 
-El programa permite calcular el sueldo de empleados mediante la lectura de datos en un archivo.txt.<br />
-Los datos correspoden a la cantidad de horas que trabaja el empleado en la empresa ACME.<br />
-La misma que efecuta los pagos en base a la siguiente tabla:<br />
+El programa permite calcular el sueldo de empleados mediante la lectura de datos en un archivo.txt<br />
+Los datos correspoden a la cantidad de horas que trabaja el empleado en la empresa ACME, la misma que efecuta los pagos en base a la siguiente tabla:<br />
 
 Lunes a Viernes<br />
 00:01 - 09:00 25 USD<br />
